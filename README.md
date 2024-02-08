@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+### 🔭 I’m currently working on School and mastering Premiere Pro
+### - 🌱 I’m currently learning Python
+### - 🤔 I’m looking for help with AI Model Training
+### - 💬 Ask me about Content Creation
+### - 📫 How to reach me: Discord: Tactifi; Instagram: TactifiYT; Email: adityadusi02@gmail.com
+### - 😄 Pronouns: He/Him
+### - ⚡ Fun fact: I built my friend a computer at the age of 13
 <!--
 **CSASD/CSASD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
